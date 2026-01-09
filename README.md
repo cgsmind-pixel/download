@@ -1,0 +1,16 @@
+[download-20260109-170131.xlsx](https://github.com/user-attachments/files/24522433/download-20260109-170131.xlsx)
+[index.html](https://github.com/user-attachments/files/24522434/index.html)
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="refresh" content="0;url=download-20260109-170131.xlsx">
+  <title>파일 다운로드</title>
+</head>
+<body>
+  <p>
+    다운로드가 자동으로 시작되지 않으면
+    <a href="download-20260109-170131.xlsx" download>여기를 클릭</a>하세요.
+  </p>
+</body>
+</html>
